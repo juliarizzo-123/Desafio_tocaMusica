@@ -1,4 +1,6 @@
 package calculos;
 
-public interface Classificacao {
+public interface Classificavel {
+    int getClassificacao();
+    
 }
